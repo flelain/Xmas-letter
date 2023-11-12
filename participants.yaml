@@ -1,0 +1,24 @@
+---
+- name: Bilbo
+  email: bilbo@the-hill.net
+  family: hobbits
+- name: Gandalf
+  email: gandalf@the-grey.org
+  family: wizards
+- name: Thorin
+  email: thorin@the-mountain.com
+  family: dwarves
+- name: Balin
+  email: balin@the-mountain.com
+  family: dwarves
+- name: Aragorn
+  email: aragorn@gondolin.go
+  family: men
+- name: Elrond
+  email: elrond@rivendell.org
+  family: elves
+- name: Gollum
+  email: gollum@under-the-mountain.net
+- name: Boromir
+  email: boromir@gondolin.go
+  family: men
